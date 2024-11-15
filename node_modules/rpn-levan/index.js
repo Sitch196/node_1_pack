@@ -29,4 +29,6 @@ function evaluateRPN(expression) {
   return stack.pop();
 }
 
-module.exports = evaluateRPN;
+module.exports = function ({ expression }) {
+  return evaluateRPN(expression);
+};
