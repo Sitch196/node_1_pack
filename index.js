@@ -1,4 +1,4 @@
-console.log("Welcome to Reverse Polish notation Calculator! // Version: 1.0.0");
+console.log("Welcome to Reverse Polish notation Calculator! // Version: 1.0.2");
 
 function evaluateRPN(expression) {
   const stack = [];

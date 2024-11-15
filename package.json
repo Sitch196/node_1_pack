@@ -1,6 +1,6 @@
 {
   "name": "rpn-levan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "task 1- reverse polish notaion",
   "main": "index.js",
   "repository": {
