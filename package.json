@@ -1,11 +1,11 @@
 {
   "name": "rpn-levan",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "task 1- reverse polish notaion",
   "main": "index.js",
   "repository": {
     "type": "git",
-  "url": "https://github.com/Sitch196/node_1_pack.git"
+    "url": "https://github.com/Sitch196/node_1_pack.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
