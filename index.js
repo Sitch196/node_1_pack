@@ -1,6 +1,8 @@
 console.log("Welcome to Reverse Polish notation Calculator!  Version: 1.0.3");
 
 function evaluateRPN(expression) {
+  console.log("Evaluating expression:", expression);
+
   const stack = [];
   const tokens = expression.split(" ");
 
